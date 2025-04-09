@@ -1,0 +1,7 @@
+README.md
+setup.py
+motion_retargeting.egg-info/PKG-INFO
+motion_retargeting.egg-info/SOURCES.txt
+motion_retargeting.egg-info/dependency_links.txt
+motion_retargeting.egg-info/requires.txt
+motion_retargeting.egg-info/top_level.txt
