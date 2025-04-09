@@ -21,9 +21,9 @@ pip install -r requirement.txt
 ```
 
 ## AMASS Dataset Preparation
-Download [AMASS Dataset](https://amass.is.tue.mpg.de/index.html) with `SMPL + H G` format and put it under `human2humanoid/data/AMASS/AMASS_Complete/`:
+Download [AMASS Dataset](https://amass.is.tue.mpg.de/index.html) with `SMPL + H G` format and put it under `motion_retargeting/data/AMASS/AMASS_Complete/`:
 ```
-|-- human2humanoid
+|-- motion_retargeting
    |-- data
       |-- AMASS
          |-- AMASS_Complete 
